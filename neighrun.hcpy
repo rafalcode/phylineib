@@ -1,0 +1,37 @@
+This is how a screen hardcopy recorded a session of Phylip''s neighbor program
+Only one file was used.
+
+
+
+Neighbor-Joining/UPGMA method version 3.696
+
+Settings for this run:
+  N       Neighbor-joining or UPGMA tree?  Neighbor-joining
+  O                        Outgroup root?  No, use as outgroup species  1
+  L         Lower-triangular data matrix?  No
+  R         Upper-triangular data matrix?  No
+  S                        Subreplicates?  No
+  J     Randomize input order of species?  No. Use input order
+  M           Analyze multiple data sets?  No
+  0   Terminal type (IBM PC, ANSI, none)?  ANSI
+  1    Print out the data at start of run  No
+  2  Print indications of progress of run  Yes
+  3                        Print out tree  Yes
+  4       Write out trees onto tree file?  Yes
+
+
+  Y to accept these or type the letter for one to change
+Y
+
+Cycle   4: species 1 (   0.91769) joins species 2 (   0.76891)
+Cycle   3: node 1 (   0.42027) joins species 3 (   0.35793)
+Cycle   2: species 6 (   0.15167) joins species 7 (   0.11753)
+Cycle   1: species 5 (   0.15393) joins node 6 (   0.03982)
+last cycle:
+ node 1  (   0.04648) joins species 4  (   0.28469) joins node 5  (   0.02696)
+
+Output written on file "outfile"
+
+Tree written on file "outtree"
+
+Done.
